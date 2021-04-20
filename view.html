@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Marker Icons</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <!-- jsFiddle will insert css and js -->
+	<style>
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+.map {
+  height: 47%;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+</style>
+  </head>
+  <body>
+    <div id="map-noprotection" class="map"></div>
+    <br />
+    <div id="map-withprotection" class="map"></div>
+
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBIwzALxUPNbatRBj3Xi1Uhp0fFzwWNBkE&callback=initMap&libraries=&v=weekly"
+      async
+    ></script>
+<script>
+
+function initMap() {
+  mapNoProtection = new google.maps.Map(document.getElementById("map-noprotection"), {
+    zoom: 4,
+    center: { lat: 45.4654219, lng: 9.1859243 },
+  });
+  
+  mapWithProtection = new google.maps.Map(document.getElementById("map-withprotection"), {
+    zoom: 4,
+    center: { lat: 45.4654219, lng: 9.1859243 },
+  });
+  
+  showData(mapNoProtection, "https://raw.githubusercontent.com/learning-things-123/lightbeamdata-view/main/serialized-noprotection.json");
+  
+  showData(mapWithProtection, "https://raw.githubusercontent.com/learning-things-123/lightbeamdata-view/main/serialized-withprotection.json");
+}
+
+function showData(map, url) {
+  var request = new XMLHttpRequest();
+  request.open('GET',  url, true);
+
+  request.onload = function() {
+    if (this.status >= 200 && this.status < 400) {
+      JSON.parse(this.response).items.forEach(firstParty  => {
+      	print(
+        	map,
+        	firstParty.hostname,
+          firstParty.location.lat,
+          firstParty.location.long,
+          firstParty.image);
+          
+        firstParty.thirdParties.forEach(thirdParty => {
+      	print(
+        	map,
+        	thirdParty.hostname,
+          thirdParty.location.lat,
+          thirdParty.location.long,
+          firstParty.image);
+        });
+      });
+    }
+  };
+
+  request.send();
+}
+
+
+function print(map, name, lat, long, image) {
+  const marker = new google.maps.Marker({
+    position: { lat: parseFloat(lat), lng: parseFloat(long)},
+    map,
+    icon:  image,
+    title: name,
+  });
+
+}
+</script>
+  </body>
+</html>
