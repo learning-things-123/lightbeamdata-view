@@ -1,0 +1,442 @@
+{
+  "adsr.4wnetwork.com": {
+    "hostname": "adsr.4wnetwork.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "anap17uht6dizpqce4i3cgwlnyrvw1618897673.nuid.imrworldwide.com": {
+    "hostname": "anap17uht6dizpqce4i3cgwlnyrvw1618897673.nuid.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets-jpcust.jwpsrv.com": {
+    "hostname": "assets-jpcust.jwpsrv.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-gl.imrworldwide.com": {
+    "hostname": "cdn-gl.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.flipboard.com": {
+    "hostname": "cdn.flipboard.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.iubenda.com": {
+    "hostname": "cdn.iubenda.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.jwplayer.com": {
+    "hostname": "cdn.jwplayer.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "config.seedtag.com": {
+    "hostname": "config.seedtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d3770qakewhkht.cloudfront.net": {
+    "hostname": "d3770qakewhkht.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d3wo5wojvuv7l.cloudfront.net": {
+    "hostname": "d3wo5wojvuv7l.cloudfront.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "embed.dugout.com": {
+    "hostname": "embed.dugout.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "entitlements.jwplayer.com": {
+    "hostname": "entitlements.jwplayer.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ff.kis.v2.scr.kaspersky-labs.com": {
+    "hostname": "ff.kis.v2.scr.kaspersky-labs.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.ansa.it",
+      "twitter.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "h3etja8xcoevt9iavl4smw5vbdcrz1618897794.nuid.imrworldwide.com": {
+    "hostname": "h3etja8xcoevt9iavl4smw5vbdcrz1618897794.nuid.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hits-i.iubenda.com": {
+    "hostname": "hits-i.iubenda.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ytimg.com": {
+    "hostname": "i.ytimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.outbrainimg.com": {
+    "hostname": "images.outbrainimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imasdk.googleapis.com": {
+    "hostname": "imasdk.googleapis.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "log.outbrainimg.com": {
+    "hostname": "log.outbrainimg.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mcdp-nydc1.outbrain.com": {
+    "hostname": "mcdp-nydc1.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "odb.outbrain.com": {
+    "hostname": "odb.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "optimized-by.4wnetwork.com": {
+    "hostname": "optimized-by.4wnetwork.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prd.jwpltx.com": {
+    "hostname": "prd.jwpltx.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.seedtag.com": {
+    "hostname": "s.seedtag.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-it.imrworldwide.com": {
+    "hostname": "secure-it.imrworldwide.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.p.jwpcdn.com": {
+    "hostname": "ssl.p.jwpcdn.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.check.ansa.it": {
+    "hostname": "static.check.ansa.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "twitter.com": {
+    "hostname": "twitter.com",
+    "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA0pJREFUWAntVk1oE1EQnnlJbFK3KUq9VJPYWgQVD/5QD0qpfweL1YJQoZAULBRPggp6kB78PQn14kHx0jRB0UO9REVFb1YqVBEsbZW2SbVS0B6apEnbbMbZ6qbZdTempqCHPAjvzcw3P5mdmfcAiquYgX+cAVwu/+5AdDMQnSPCHUhQA0hf+Rxy2OjicIvzm+qnKhito0qpb2wvJhWeJgCPP7oPELeHvdJ1VSGf3eOPnSWga0S0Qo9HxEkEusDBuNjbEca8G291nlBxmgDc/ukuIvAJxI6wr+yKCsq1ewLxQ2lZfpQLo8oQ4ZXdCkfnACrGWpyDCl+oQmVn5xuVPU102e2P3qoJkFOhzVb9S7KSnL5jJs/mI+As01PJFPSlZeFSZZoAGBRXBZyq9lk5NrC+e7pJ5en30c+JWk59pZ5vRDOuhAD381c/H/FKz1SMNgCE16rg505r5TT0uLqme93d0fbq+1SeLSeU83Ke0RHYFPGVPcjQfNDUwIa7M665+dQAEEjZoMwZMcEF9RxIDAgBQ2mCcqJ0Z0b+h4MNbZ4RnyOSDbNmE2iRk5jCNgIIckFoZAs4IgfLGrlKGjkzS16iwj6pV9I4mUvCPf73JVytH9nRJj24QHrqU8NCIWrMaGqAC+Ut/3ZzAS63cx4v2K/x/IvQBOCwWzu5KmJGwEJ5PIgeG9nQBDDcXPpFoDjJ7ThvBC6EZxXWkJG+JgAFwGM4KBAOcibeGCn8FQ/hyajXPmSk+1sACogn4hYk7OdiHDFSWipPkPWSmY6mCzIghEEuxJvcEYUvxIdhX2mvmSHDDPBF9AJRnDZTyp+P40671JYLbxiAohDxSTfQIg4oNxgPzCWPHaWQBViOf2jGqVwBaEaxGbAqOFMrp+SefC8eNhoFIY5lXzpmtnMGUB2IbU3JdIqVW9m5zcxINn/hAYKiIexdaTh4srHKORMAP0b28PNgJyGt5gvHzQVYx91QpVcwpRFl/p63HSR1DLbid1OcTpAJQOG7u+KH+aI5Qwj13IsamU5vkUSIc8uGLDa8OtoivV8U5HcydFLtT7hlSDVy2nfxI2Ibg9awuVU8IeJAOMF5m2B6jFs1tM5R9rS3GRP5uSuiihn4DzPwA7z7GDH+43gqAAAAAElFTkSuQmCC",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ff.kis.v2.scr.kaspersky-labs.com",
+      "www.google-analytics.com"
+    ]
+  },
+  "verify.check.ansa.it": {
+    "hostname": "verify.check.ansa.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget-pixels.outbrain.com": {
+    "hostname": "widget-pixels.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget.spreaker.com": {
+    "hostname": "widget.spreaker.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets.outbrain.com": {
+    "hostname": "widgets.outbrain.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.ansa.it": {
+    "hostname": "www.ansa.it",
+    "favicon": "data:image/x-icon;base64,AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAgBAAABMLAAATCwAAAAAAAAAAAAAlcwrmJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK8iVzCvIlcwryJXMK5iZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQL/yZ0C/8mdAv/JnQM8iZ0DP8mdAz/JnQM/yZ1DP8mdQz/JnQM/yZ0DP8mdAz/JnQM/yZ0DP8mdQz/JnQM/yZ0DP8mdAz/JnQM/yZ0DP8mdAz/JnUM/yZ0DP8mdAz/JnQM/yZ0DP8mdAz/JnQM/yZ0DP8mdQz/JnUM/yZ0DP8mdAz/JnQM/yZ0DPImdQ3yJnUN/yZ1Df8mdA3/JnQN/yZzDP8lcgz/JXIM/yVyDP8lcgz/JXIM/yVzDP8mcw3/JnQN/yZ0Df8mdA3/JnMN/yZzDf8lcwz/JXIM/yVyDP8lcgz/JXIM/yVyDP8lcgz/JXIM/yVzDP8mcwz/JnQN/yZ0Df8mdQ3/JnUN8id2DvIodw//KXYQ/wheAP8AVAD/AFEA/wBQAP8AUAD/AFAA/wBQAP8AUAD/AFEA/wBTAP8cagP/LHgQ/yJwCv8BWAD/AFMA/wBRAP8AUAD/AFAA/wBQAP8AUAD/AFAA/wBQAP8AUAD/AFAA/wBTAP8WZQD/LHcQ/yd1Dv8ndg7yKHcP8iZ1Df8hbwn/aZtZ/3ukbv96om7/eqFt/3qhbf96oW3/eqFt/3qhbf96om7/eqRu/zp7Jf8XZAj/LnYX/3qmbP96pG7/eqJu/3qhbf96oW3/eqFt/3qhbf96oW3/eqFt/3qhbf96om7/eqNu/0eCNP8XZwj/KHYP/yh3D/IqeA/yJHMJ/xZmAP/q8ef/////////////////////////////////////////////////Y5RS/wBMAP8+fyn/////////////////////////////////////////////////////////////////iq99/wBSAP8pdg//KngP8it5EPIldAr/F2cA/+jv5v////////////////////////////////////////////////9klVP/AE4A/z+AKf////////////////////////////////////////////////////////////////+Kr33/AFQA/yp3EP8reRDyLHoR8il4D/8jcgn/daRk/4atff/W4tD//////////////////////8HSu/+MroH/jLKA/0GDLP8WZwf/NHsb/4qyfP+Ir33/u8+0//////////////////////////////////////+pwqD/hax4/1CLPP8Zagf/LHkR/yx6EfIsexLyLXsT/y58Ff8RaAD/AFQA/yFpDP/o7+b/////////////////O3Ip/wBAAP8IXQD/I3MI/zJ+FP8odw//C2IA/wBHAP8+eiv/////////////////////////////////nrqV/wBGAP8EWQD/Hm8D/zF+FP8sexL/LHsS8i18FPItfBT/LXwU/y18E/8ufRP/AFcA/4uxf/////////////////98onD/AVAA/ypzEv8reBP/LHgT/yx3E/8seBP/BFgA/4GpdP////////////////////////////v7+v81cx7/EGIA/y16FP8sfBT/LXwU/y18FP8tfBTyL30U8i99FP8vfRT/L34U/y9+Ff8XbAD/RoUv/////////////////8XVwP8AQwD/AFAA/whZAP8JWQD/CVkA/wFTAP8ASAD/xtfB////////////////////////////v9K5/w1bAP8rdw//L30U/y9+FP8vfRT/L30U/y99FPIwfhXyMH4V/zB+Ff8wfhX/MH8V/yx7EP8XaAD/ytvF/////////////Pz8/6W+mv+XtY3/n7uV/5+8lf+fvJX/mLaN/6S+mP/9/fz///////////////////////////90n2X/CFsA/zB8Fv8wfhX/MH4V/zB+Ff8wfhX/MH4V8jJ/F/Iyfxf/Mn8X/zJ/F/8yfxf/MoAY/wtiAP+CrHT/////////////////////////////////////////////////////////////////////////////////9/n3/zV0Hf8fbQT/Mn4X/zJ/F/8yfxf/Mn8X/zJ/F/8yfxfyMoEY8jKBGP8ygRj/MoEY/zKBGP8ygRj/HnEE/0CCKP/8/fz///////////////////////////////////////////////////////////////////////////+2y6//DFwA/zB7Ff8ygBj/MoEY/zKBGP8ygRj/MoEY/zKBGPIzghryM4Ia/zOCGv8zghr/M4Ia/zOCGv8wfxb/FGcA/8TXvv////////////////+Jqn3/aJdc/3qmbP9omVz/jbCC/////////////////////////////////26cYP8NYAD/M4Ab/zOCGv8zghr/M4Ia/zOCGv8zghr/M4Ia8jWDGvI1gxr/NYMa/zWDGv81gxr/NYMa/zaEG/8QZwD/e6hs/////////////////2qVW/8AQQD/FGYA/wBIAP9zn2T////////////////////////////v8+7/MHQZ/yVzCf80ghr/NYMa/zWDGv81gxr/NYMa/zWDGv81gxryNoQb8jaEG/82hBv/NoQb/zaEG/82hBv/NoQb/yV3Cf89gSX/9/j2////////////0N7L/xtkA/8mcwr/H2sH/9rm1v///////////////////////////63FpP8QXwD/NIAZ/zaEG/82hBv/NoQb/zaEG/82hBv/NoQb/zaEG/I3hR3yN4Ud/zeFHf83hR3/N4Ud/zeFHf83hR3/NoMb/xdqAP+40LD/////////////////T4U7/wRTAP9WjUL/////////////////////////////////ZZZU/xRlAP83gx3/N4Ud/zeFHf83hR3/N4Ud/zeFHf83hR3/N4Ud8jiGHvI4hh7/OIYe/ziGHv84hh7/OIYe/ziGHv85hx//FWwA/3OkYv////////////////+RsYb/ADwA/5q6kP///////////////////////////+rw6f8rcRT/K3kQ/ziFHv84hh7/OIYe/ziGHv84hh7/OIYe/ziGHv84hh7yOIgf8jiIH/84iB//OIgf/ziIH/84iB//OIgf/zmIH/8rfRD/Nn8f//L28f///////////87cyv8SVwP/2eTW////////////////////////////o8Ca/w9hAP83hB//OYcf/ziIH/84iB//OIgf/ziIH/84iB//OIgf/ziIH/I6iSDyOokg/zqJIP86iSD/Ookg/zqJIP86iSD/Ookg/zqIIP8WbQD/s8yp////////////8vbx/4ysf//4+vf///////////////////////////9glE//GmwA/zqHIP86iSD/Ookg/zqJIP86iSD/Ookg/zqJIP86iSD/Ookg8juKIPI7iiD/O4og/zuKIP87iiD/O4og/zuKIP87iiD/PIoi/xtyAP9toVv/////////////////////////////////////////////////4ene/ypyEv8xfxb/O4kh/zuKIP87iiD/O4og/zuKIP87iiD/O4og/zuKIP87iiDyPYoi8j2KIv89iiL/PYoi/z2KIv89iiL/PYoi/z2KIv89iiL/MYIV/zV/Hf/q8ej///////////////////////////////////////////+cu5H/E2UA/zyHIf89iiL/PYoi/z2KIv89iiL/PYoi/z2KIv89iiL/PYoi/z2KIvI9jCPyPYwj/z2MI/89jCP/PYwj/z2MI/89jCP/PYwj/z2MI/89iyP/GG8A/6fGnf///////////////////////////////////////////1ePRf8fcQX/PIoj/z2MI/89jCP/PYwj/z2MI/89jCP/PYwj/z2MI/89jCP/PYwj8j6NJPI+jST/Po0k/z6NJP8+jST/Po0k/z6NJP8+jST/Po0k/z6NJf8geAX/ZZ5S///////////////////////////////////////c5tj/JnIN/zaEHP8+jCT/Po0k/z6NJP8+jST/Po0k/z6NJP8+jST/Po0k/z6NJP8+jSTyP44l8j+OJf8/jiX/P44l/z+OJf8/jiX/P44l/z+OJf8/jiX/P44l/zeIHf8vfxX/5u/k/////////////////////////////////5K4h/8YbgD/P4wm/z+OJf8/jiX/P44l/z+OJf8/jiX/P44l/z+OJf8/jiX/P44l/z+OJfJAjybyQI8m/0CPJv9Ajyb/QI8m/0CPJv9Ajyb/QI8m/0CPJv9Ajyb/QY8n/zSGGv9Tlj7/Z6BU/2aeU/9mnlP/Zp5T/2aeU/9mn1T/Qooq/ziHHv8/jib/QI8m/0CPJv9Ajyb/QI8m/0CPJv9Ajyb/QI8m/0CPJv9Ajyb/QI8m8kGPJvJBjyb/QY8m/0GPJv9Bjyb/QY8m/0GPJv9Bjyb/QY8m/0GPJv9Bjyf/Q5Ap/y+CEv8nfAr/JnoJ/yZ6Cf8megn/JnoJ/yZ7Cv84hxz/RJAq/0GOJv9Bjyb/QY8m/0GPJv9Bjyb/QY8m/0GPJv9Bjyb/QY8m/0GPJv9BjybyQpAn8kKQJ/9CkCf/QpAn/0KQJ/9CkCf/QpAn/0KQJ/9CkCf/QpAn/0KQJ/9Cjyj/Qo8o/0KQKP9CkCj/QpAn/0KQJ/9CkCf/QpAo/0KPKP9CkCj/QpAn/0KQJ/9CkCf/QpAn/0KQJ/9CkCf/QpAn/0KQJ/9CkCf/QpAn/0KQJ/JDkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0ORKP9DkSj/Q5Eo/0OSKeZDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinyQ5Ip8kOSKfJDkinmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ff.kis.v2.scr.kaspersky-labs.com",
+      "cdn.iubenda.com",
+      "www.iubenda.com",
+      "cdn-gl.imrworldwide.com",
+      "sb.scorecardresearch.com",
+      "securepubads.g.doubleclick.net",
+      "adsr.4wnetwork.com",
+      "anap17uht6dizpqce4i3cgwlnyrvw1618897673.nuid.imrworldwide.com",
+      "secure-it.imrworldwide.com",
+      "hits-i.iubenda.com",
+      "embed.dugout.com",
+      "cdn.jwplayer.com",
+      "widget.spreaker.com",
+      "ssl.p.jwpcdn.com",
+      "entitlements.jwplayer.com",
+      "imasdk.googleapis.com",
+      "www.googletagmanager.com",
+      "prd.jwpltx.com",
+      "assets-jpcust.jwpsrv.com",
+      "www.google-analytics.com",
+      "d3wo5wojvuv7l.cloudfront.net",
+      "d3770qakewhkht.cloudfront.net",
+      "stats.g.doubleclick.net",
+      "optimized-by.4wnetwork.com",
+      "static.check.ansa.it",
+      "config.seedtag.com",
+      "h3etja8xcoevt9iavl4smw5vbdcrz1618897794.nuid.imrworldwide.com",
+      "pagead2.googlesyndication.com",
+      "verify.check.ansa.it",
+      "widgets.outbrain.com",
+      "cdn.flipboard.com",
+      "widget-pixels.outbrain.com",
+      "odb.outbrain.com",
+      "log.outbrainimg.com",
+      "images.outbrainimg.com",
+      "mcdp-nydc1.outbrain.com",
+      "s.seedtag.com",
+      "platform.twitter.com",
+      "syndication.twitter.com"
+    ]
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it",
+      "twitter.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.it": {
+    "hostname": "www.google.it",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.iubenda.com": {
+    "hostname": "www.iubenda.com",
+    "favicon": "",
+    "firstPartyHostnames": [
+      "www.ansa.it"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "favicon": "data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAD/EAAA/0AAAP9AAAD/cAAA/4AAAP+AAAD/gAAA/4AAAP+AAAD/QAAA/0AAAP8Q////AP///wD///8AAAD/YAAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA/2D///8AAAD/MAAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD/MAAA/1AAAP//AAD//wAA//8AAP//AAD//wAA//8QEP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA/2AAAP+AAAD//wAA//8AAP//AAD//wAA//8AAP//4OD//1BQ//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP+AAAD/gAAA//8AAP//AAD//wAA//8AAP//AAD/////////////wMD//yAg//8AAP//AAD//wAA//8AAP//AAD/gAAA/4AAAP//AAD//wAA//8AAP//AAD//wAA/////////////7Cw//8gIP//AAD//wAA//8AAP//AAD//wAA/4AAAP+AAAD//wAA//8AAP//AAD//wAA//8AAP//4OD//0BA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP+AAAD/UAAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD/YAAA/zAAAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA/zD///8AAAD/YAAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA/2D///8A////AP///wAAAP8QAAD/QAAA/0AAAP+AAAD/gAAA/4AAAP+AAAD/gAAA/4AAAP9AAAD/QAAA/xD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A//8AAP//AADAAwAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAEAAMADAAD//wAA//8AAA==",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ff.kis.v2.scr.kaspersky-labs.com",
+      "i.ytimg.com",
+      "www.google.it"
+    ]
+  }
+}
